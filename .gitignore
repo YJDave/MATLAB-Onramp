@@ -1,4 +1,5 @@
 data.txt
+*.DS_Store
 
 # Source: https://stackoverflow.com/questions/31857606/what-files-should-i-add-to-the-gitignore-when-using-matlab-and-simulink
 
