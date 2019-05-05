@@ -1,4 +1,4 @@
-% Course: 
+% Course: https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted
 
 % Electricy usage and prices in US for 23 years from 1991 to 2013 of residential, commercial, and industrial
 
