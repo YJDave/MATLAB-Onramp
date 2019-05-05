@@ -9,6 +9,7 @@
 
 % Clear variables
 clc;
+clear;
 
 % Load data
 load('electricity.mat', '-mat');
