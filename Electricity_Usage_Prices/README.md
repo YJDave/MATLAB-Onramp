@@ -6,6 +6,8 @@ This project plot electricity usage and prices for various economic sectors - re
 
 This project introduces graph visualization functions `plot` and `subplot` with examples.
 
+[Electricity Usage Graph](results/usage.png)
+[Electricity Usage-Prices Graph](results/usage_prices.png)
 
 #### Project structure
 * `electricity.mat` file contains data
