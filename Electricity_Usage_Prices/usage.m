@@ -11,7 +11,7 @@
 clc;
 
 % Load data
-load('electricity.mat');
+load('electricity.mat', '-mat');
 
 % Replace 'NaN' values with mean of total data
 usage(isnan(usage)) = mean(mean(usage));
