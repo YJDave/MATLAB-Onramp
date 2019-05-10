@@ -37,9 +37,10 @@ grid on;
 xlabel('Wavelength')
 ylabel('Intensity')
 
-% To get the value where spike occured, get the minimum value of spectrum data
-% which also return index
-[min_spectrum, min_index] = min(spectrum_data);
+% To get the value where spike occured, get the maximum variance from mean value
+% of spectrum data which also return index
+[min_val, min_index] = max(abs(spectrum_data - mean(spectrum_data)));
+min_spectrum = spectrum_data(min_index);
 
 % Get value of wavelength of hydrogen alpha line of star HD94028
 lambda_for_Ha = lambda(min_index);
