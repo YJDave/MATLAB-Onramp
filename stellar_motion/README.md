@@ -11,7 +11,7 @@ This project finds the obsorbed wavelength of the hydrogen alpha line of HD94028
 Above theory is visually explained in detail on [MathWorks course curriculum](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted#chapter=14&lesson=1&section=1).
 
 Characteristic spectrum of star HD94028
-![](results/stellar_motion.png)
+![](results/star_6_spectrum.png)
 
 #### Project structure
 * `stellar_motion.m` file plots signal frequency data on graph
