@@ -22,4 +22,4 @@ You can run project either in octave or MATLAB.
 2. `cd` to project directory and either run following command in octave or MATLAB
 3. `run('audio_frequency.m')` to run `audio_frequency.m`
 
-This project is part of [MATLAB Onramp Course](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted) | [Project Tutorial](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted#chapter=10&lesson=2&section=1)
+This project is part of MathWorks's [MATLAB Onramp Course](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted) | [Project Tutorial](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted#chapter=10&lesson=2&section=1)

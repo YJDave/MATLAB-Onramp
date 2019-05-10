@@ -25,4 +25,4 @@ You can run project either in octave or MATLAB.
 2. `run('usage.m')` to run `usage.m`
 3. `run('usage_prices.m)` to run `usage_prices.m`
 
-This project is part of [MATLAB Onramp Course](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted) | [Project Tutorial](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted#chapter=10&lesson=1&section=1)
+This project is part of MathWorks's [MATLAB Onramp Course](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted) | [Project Tutorial](https://matlabacademy.mathworks.com/R2018b/portal.html?course=gettingstarted#chapter=10&lesson=1&section=1)
